@@ -1,2 +1,2 @@
 # IslandRoutes
- A collection of tourism web page, websites and features. 
+ A collection of tourism web pages, websites and features. 
